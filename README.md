@@ -18,4 +18,4 @@ An overview of projects written in [Elm](https://elm-lang.org) by [Driebit Amste
 * Joods Monument, commemoration pages | [link](https://www.joodsmonument.nl/nl/page/622523/samen-herdenken-we-de-holocaust)
 * Joods Monument, search page | [link](https://www.joodsmonument.nl/nl/search?qsort=&qcat=&qcg=&qs=Amsterdam)
 * UNStudio, project pages | [link](https://www.unstudio.com/en/page/11735/hardt-hyperloop)
-* Kenniscloud, comment sections | [link](https://www.kenniscloud.nl)
+* Kenniscloud, comment sections, some ui elements and webgl-powered graphs | [link](https://www.kenniscloud.nl)
