@@ -10,9 +10,7 @@ An overview of projects written in [Elm](https://elm-lang.org) by [Driebit Amste
 * Nationaal Muziekinstrumenten Fonds | [link](https://www.muziekinstrumentenfonds.nl)
 * Tribal Wisdom | [link](https://www.tribal-wisdom.org)
 * Nature-Based Solutions | [link](https://www.nature-basedsolutions.com)
-* Oorlogslevens | [link](https://www.oorlogslevens.nl/?lang=en)
 * de Architecten Cie | [link](https://cie.nl/?lang=en)
-* Naturalis Verwonderwereld | [link](https://www.verwonderpaspoort.nl/verwonderwereld)
 
 ## Pages or parts of a website
 * Joods Monument, commemoration pages | [link](https://www.joodsmonument.nl/nl/page/622523/samen-herdenken-we-de-holocaust)
